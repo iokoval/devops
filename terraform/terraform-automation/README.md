@@ -115,12 +115,4 @@ In this case, we did set up `PagerDuty` with `Slack` via Terraform.<br>
 ![](final-pic1.png)<br>
 ![](final-pic2.png)<br>
 ## License
-Copyright © 2015-2022 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).<br>
 
-## About Codica
-
-[![Codica logo](https://www.codica.com/assets/images/logo/logo.svg)](https://www.codica.com) <br>
-
-The names and logos for Codica are trademarks of Codica.<br>
-
-We love open source software! See [our other projects](https://github.com/codica2) or [hire us](https://www.codica.com/) to design, develop, and grow your product.<br>
