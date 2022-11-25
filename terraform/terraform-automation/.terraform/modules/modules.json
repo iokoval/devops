@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"slack","Source":"./modules/slack","Dir":"modules/slack"},{"Key":"","Source":"","Dir":"."},{"Key":"pagerduty","Source":"./modules/pagerduty","Dir":"modules/pagerduty"}]}
