@@ -1,1 +1,1 @@
-# devops
+# GitHub repository for myself
